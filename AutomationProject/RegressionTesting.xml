@@ -1,0 +1,11 @@
+<suite name="Regression Suite">
+    <test name="Regression Cycle">
+        <classes>
+            <class name="project.Class1" />
+            <class name="project.Class2" />
+            <class name="project.Class3" />
+            <class name="project.Class4" />
+            <class name="project.Class5" />
+        </classes>
+    </test>
+</suite>
