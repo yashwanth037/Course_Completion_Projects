@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-09T13:08:57 IST" name="Croma Automation Suite" finished-at="2026-01-09T13:09:59 IST" duration-ms="62394">
+    <groups>
+    </groups>
+    <test started-at="2026-01-09T13:08:57 IST" name="E-Commerce Tests" finished-at="2026-01-09T13:09:59 IST" duration-ms="62394">
+      <class name="project.Class4">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:project.Class4@618b19ad]" started-at="2026-01-09T13:09:25 IST" name="launchApp" finished-at="2026-01-09T13:09:29 IST" duration-ms="4299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="priceCalculation()[pri:0, instance:project.Class4@618b19ad]" started-at="2026-01-09T13:09:29 IST" name="priceCalculation" finished-at="2026-01-09T13:09:34 IST" duration-ms="4253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceCalculation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project.Class4@618b19ad]" started-at="2026-01-09T13:09:34 IST" name="close" finished-at="2026-01-09T13:09:34 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project.Class4 -->
+      <class name="project.Class3">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:project.Class3@74235045]" started-at="2026-01-09T13:09:16 IST" name="launchApp" finished-at="2026-01-09T13:09:21 IST" duration-ms="4691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="sortFilter()[pri:0, instance:project.Class3@74235045]" started-at="2026-01-09T13:09:21 IST" name="sortFilter" finished-at="2026-01-09T13:09:25 IST" duration-ms="3614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortFilter -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project.Class3@74235045]" started-at="2026-01-09T13:09:25 IST" name="close" finished-at="2026-01-09T13:09:25 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project.Class3 -->
+      <class name="project.Class5">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:project.Class5@2d3379b4]" started-at="2026-01-09T13:09:34 IST" name="launchApp" finished-at="2026-01-09T13:09:45 IST" duration-ms="11352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="cartFunctionality()[pri:0, instance:project.Class5@2d3379b4]" started-at="2026-01-09T13:09:45 IST" name="cartFunctionality" finished-at="2026-01-09T13:09:59 IST" duration-ms="13401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartFunctionality -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project.Class5@2d3379b4]" started-at="2026-01-09T13:09:59 IST" name="close" finished-at="2026-01-09T13:09:59 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project.Class5 -->
+      <class name="project.Class2">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:project.Class2@765d7657]" started-at="2026-01-09T13:09:06 IST" name="launchApp" finished-at="2026-01-09T13:09:10 IST" duration-ms="4669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="brandFiltering()[pri:0, instance:project.Class2@765d7657]" started-at="2026-01-09T13:09:10 IST" name="brandFiltering" finished-at="2026-01-09T13:09:16 IST" duration-ms="5937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandFiltering -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project.Class2@765d7657]" started-at="2026-01-09T13:09:16 IST" name="close" finished-at="2026-01-09T13:09:16 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project.Class2 -->
+      <class name="project.Class1">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:project.Class1@1bd4fdd]" started-at="2026-01-09T13:08:57 IST" name="launchApp" finished-at="2026-01-09T13:09:02 IST" duration-ms="4942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="dataEntry(java.lang.String)[pri:0, instance:project.Class1@1bd4fdd]" started-at="2026-01-09T13:09:02 IST" name="dataEntry" data-provider="Searching" finished-at="2026-01-09T13:09:05 IST" duration-ms="3642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Refrigerator]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataEntry -->
+        <test-method is-config="true" signature="close()[pri:0, instance:project.Class1@1bd4fdd]" started-at="2026-01-09T13:09:05 IST" name="close" finished-at="2026-01-09T13:09:06 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- project.Class1 -->
+    </test> <!-- E-Commerce Tests -->
+  </suite> <!-- Croma Automation Suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<suite name="Croma Automation Suite">
+    <test name="E-Commerce Tests">
+        <classes>
+            <class name="project.Class1" />
+            <class name="project.Class2" />
+            <class name="project.Class3" />
+            <class name="project.Class4" />
+            <class name="project.Class5" />
+        </classes>
+    </test>
+</suite>

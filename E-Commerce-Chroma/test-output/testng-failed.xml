@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Croma Automation Suite]">
+  <test thread-count="5" name="E-Commerce Tests(failed)">
+    <classes>
+      <class name="project.Class5">
+        <methods>
+          <include name="cartFunctionality"/>
+          <include name="close"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- project.Class5 -->
+    </classes>
+  </test> <!-- E-Commerce Tests(failed) -->
+</suite> <!-- Failed suite [Croma Automation Suite] -->
